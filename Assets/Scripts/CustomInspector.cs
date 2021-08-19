@@ -12,5 +12,8 @@ public class CustomInspector : Editor
         ArtFile Component = (ArtFile)target;
         if (GUILayout.Button("Editor Update"))
             Component.Yeet();
+
+        if (GUILayout.Button("Increase Size"))
+            Component.IncreaseSize();
     }
 }
