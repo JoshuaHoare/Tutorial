@@ -53,128 +53,113 @@ MonoBehaviour:
       type: 0
       specialIndex:
         color: {r: 1, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 5, y: 0.00000066579025, z: 5}
         index: 106
         type: 0
         special: 1
       vertProperties:
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 2.8099985, y: 0.00000066579025, z: 39.71}
+        vector: {x: -4.5000014, y: 0.00000066579025, z: 5}
         index: 2
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 3.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: -4.000001, y: 0.00000066579025, z: 5}
         index: 5
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 3.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: -3.500001, y: 0.00000066579025, z: 5}
         index: 9
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 4.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: -3.000001, y: 0.00000066579025, z: 5}
         index: 13
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 4.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: -2.500001, y: 0.00000066579025, z: 5}
         index: 18
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 5.3099995, y: 0.00000066579025, z: 39.71}
+        vector: {x: -2.0000007, y: 0.00000066579025, z: 5}
         index: 24
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 5.8099995, y: 0.00000066579025, z: 39.71}
+        vector: {x: -1.5000007, y: 0.00000066579025, z: 5}
         index: 31
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 6.3099995, y: 0.00000066579025, z: 39.71}
+        vector: {x: -1.0000007, y: 0.00000066579025, z: 5}
         index: 39
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 6.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: -0.5000008, y: 0.00000066579025, z: 5}
         index: 46
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 7.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: -0.0000007751465, y: 0.00000066579025, z: 5}
         index: 52
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 7.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 0.49999923, y: 0.00000066579025, z: 5}
         index: 57
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 8.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 0.9999992, y: 0.00000066579025, z: 5}
         index: 61
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 8.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 1.4999992, y: 0.00000066579025, z: 5}
         index: 64
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 9.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 1.9999992, y: 0.00000066579025, z: 5}
         index: 70
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 9.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 2.4999993, y: 0.00000066579025, z: 5}
         index: 76
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 10.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 2.9999995, y: 0.00000066579025, z: 5}
         index: 82
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 10.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 3.4999995, y: 0.00000066579025, z: 5}
         index: 88
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 11.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 3.9999995, y: 0.00000066579025, z: 5}
         index: 94
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 1}
-        vector: {x: 11.809999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 4.4999995, y: 0.00000066579025, z: 5}
         index: 100
         type: 0
         special: 0
       - color: {r: 1, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 5, y: 0.00000066579025, z: 5}
         index: 106
         type: 0
         special: 1
       - color: {r: 0, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 2.3099985, y: 0.00000066579025, z: 39.71}
-        index: 1
-        type: 3
-        special: 1
-      - color: {r: 0, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 2.3099985, y: 0.00000066579025, z: 39.71}
-        index: 1
-        type: 3
-        special: 1
-      - color: {r: 0, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 2.3099985, y: 0.00000066579025, z: 39.71}
-        index: 1
-        type: 3
-        special: 1
-      - color: {r: 0, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 2.3099985, y: 0.00000066579025, z: 39.71}
+        vector: {x: -5.0000014, y: 0.00000066579025, z: 5}
         index: 1
         type: 3
         special: 1
@@ -182,128 +167,113 @@ MonoBehaviour:
       type: 1
       specialIndex:
         color: {r: 0, g: 1, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 5, y: -0.0000006657905, z: -5.0000014}
         index: 204
         type: 1
         special: 1
       vertProperties:
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.0000005992112, z: 39.21}
+        vector: {x: 5, y: 0.0000005992112, z: 4.4999995}
         index: 107
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.00000053263216, z: 38.71}
+        vector: {x: 5, y: 0.00000053263216, z: 3.9999995}
         index: 110
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.0000004660531, z: 38.21}
+        vector: {x: 5, y: 0.0000004660531, z: 3.4999995}
         index: 115
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.0000003994741, z: 37.71}
+        vector: {x: 5, y: 0.0000003994741, z: 2.9999995}
         index: 119
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.00000033289504, z: 37.21}
+        vector: {x: 5, y: 0.00000033289504, z: 2.4999993}
         index: 124
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.000000266316, z: 36.71}
+        vector: {x: 5, y: 0.000000266316, z: 1.9999992}
         index: 130
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.00000019973697, z: 36.21}
+        vector: {x: 5, y: 0.00000019973697, z: 1.4999992}
         index: 135
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.00000013315794, z: 35.71}
+        vector: {x: 5, y: 0.00000013315794, z: 0.9999992}
         index: 139
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: 0.00000006657892, z: 35.21}
+        vector: {x: 5, y: 0.00000006657892, z: 0.49999923}
         index: 142
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -1.03216995e-13, z: 34.71}
+        vector: {x: 5, y: -1.03216995e-13, z: -0.0000007751465}
         index: 148
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.000000066579126, z: 34.21}
+        vector: {x: 5, y: -0.000000066579126, z: -0.5000008}
         index: 154
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.00000013315815, z: 33.71}
+        vector: {x: 5, y: -0.00000013315815, z: -1.0000007}
         index: 160
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.00000019973717, z: 33.21}
+        vector: {x: 5, y: -0.00000019973717, z: -1.5000007}
         index: 166
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.00000026631622, z: 32.71}
+        vector: {x: 5, y: -0.00000026631622, z: -2.0000007}
         index: 172
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.00000033289524, z: 32.21}
+        vector: {x: 5, y: -0.00000033289524, z: -2.500001}
         index: 178
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.00000039947432, z: 31.71}
+        vector: {x: 5, y: -0.00000039947432, z: -3.000001}
         index: 184
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.00000046605334, z: 31.21}
+        vector: {x: 5, y: -0.00000046605334, z: -3.500001}
         index: 190
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.0000005326324, z: 30.71}
+        vector: {x: 5, y: -0.0000005326324, z: -4.000001}
         index: 196
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 1}
-        vector: {x: 12.309999, y: -0.00000059921143, z: 30.209997}
+        vector: {x: 5, y: -0.00000059921143, z: -4.5000014}
         index: 202
         type: 1
         special: 0
       - color: {r: 0, g: 1, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 5, y: -0.0000006657905, z: -5.0000014}
         index: 204
         type: 1
         special: 1
       - color: {r: 1, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: 0.00000066579025, z: 39.71}
-        index: 106
-        type: 0
-        special: 1
-      - color: {r: 1, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: 0.00000066579025, z: 39.71}
-        index: 106
-        type: 0
-        special: 1
-      - color: {r: 1, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: 0.00000066579025, z: 39.71}
-        index: 106
-        type: 0
-        special: 1
-      - color: {r: 1, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: 0.00000066579025, z: 39.71}
+        vector: {x: 5, y: 0.00000066579025, z: 5}
         index: 106
         type: 0
         special: 1
@@ -311,128 +281,113 @@ MonoBehaviour:
       type: 2
       specialIndex:
         color: {r: 0, g: 0, b: 1, a: 0.5019608}
-        vector: {x: 2.3099985, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -5.0000014, y: -0.0000006657905, z: -5.0000014}
         index: 287
         type: 2
         special: 1
       vertProperties:
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 11.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 4.4999995, y: -0.0000006657905, z: -5.0000014}
         index: 203
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 11.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 3.9999995, y: -0.0000006657905, z: -5.0000014}
         index: 205
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 10.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 3.4999995, y: -0.0000006657905, z: -5.0000014}
         index: 207
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 10.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 2.9999995, y: -0.0000006657905, z: -5.0000014}
         index: 209
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 9.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 2.4999993, y: -0.0000006657905, z: -5.0000014}
         index: 212
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 9.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 1.9999992, y: -0.0000006657905, z: -5.0000014}
         index: 215
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 8.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 1.4999992, y: -0.0000006657905, z: -5.0000014}
         index: 218
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 8.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 0.9999992, y: -0.0000006657905, z: -5.0000014}
         index: 222
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 7.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 0.49999923, y: -0.0000006657905, z: -5.0000014}
         index: 226
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 7.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -0.0000007751465, y: -0.0000006657905, z: -5.0000014}
         index: 231
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 6.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -0.5000008, y: -0.0000006657905, z: -5.0000014}
         index: 236
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 6.3099995, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -1.0000007, y: -0.0000006657905, z: -5.0000014}
         index: 242
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 5.8099995, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -1.5000007, y: -0.0000006657905, z: -5.0000014}
         index: 249
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 5.3099995, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -2.0000007, y: -0.0000006657905, z: -5.0000014}
         index: 256
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 4.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -2.500001, y: -0.0000006657905, z: -5.0000014}
         index: 263
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 4.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -3.000001, y: -0.0000006657905, z: -5.0000014}
         index: 269
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 3.809999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -3.500001, y: -0.0000006657905, z: -5.0000014}
         index: 274
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 3.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -4.000001, y: -0.0000006657905, z: -5.0000014}
         index: 278
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 1}
-        vector: {x: 2.8099985, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -4.5000014, y: -0.0000006657905, z: -5.0000014}
         index: 281
         type: 2
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 0.5019608}
-        vector: {x: 2.3099985, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -5.0000014, y: -0.0000006657905, z: -5.0000014}
         index: 287
         type: 2
         special: 1
       - color: {r: 0, g: 1, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: -0.0000006657905, z: 29.709997}
-        index: 204
-        type: 1
-        special: 1
-      - color: {r: 0, g: 1, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: -0.0000006657905, z: 29.709997}
-        index: 204
-        type: 1
-        special: 1
-      - color: {r: 0, g: 1, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: -0.0000006657905, z: 29.709997}
-        index: 204
-        type: 1
-        special: 1
-      - color: {r: 0, g: 1, b: 0, a: 0.5019608}
-        vector: {x: 12.309999, y: -0.0000006657905, z: 29.709997}
+        vector: {x: 5, y: -0.0000006657905, z: -5.0000014}
         index: 204
         type: 1
         special: 1
@@ -440,128 +395,113 @@ MonoBehaviour:
       type: 3
       specialIndex:
         color: {r: 0, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 2.3099985, y: 0.00000066579025, z: 39.71}
+        vector: {x: -5.0000014, y: 0.00000066579025, z: 5}
         index: 1
         type: 3
         special: 1
       vertProperties:
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.0000005992112, z: 39.21}
+        vector: {x: -5.0000014, y: 0.0000005992112, z: 4.4999995}
         index: 0
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 0.5019608}
-        vector: {x: 2.3099985, y: 0.00000066579025, z: 39.71}
+        vector: {x: -5.0000014, y: 0.00000066579025, z: 5}
         index: 1
         type: 3
         special: 1
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.00000053263216, z: 38.71}
+        vector: {x: -5.0000014, y: 0.00000053263216, z: 3.9999995}
         index: 4
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.0000004660531, z: 38.21}
+        vector: {x: -5.0000014, y: 0.0000004660531, z: 3.4999995}
         index: 7
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.0000003994741, z: 37.71}
+        vector: {x: -5.0000014, y: 0.0000003994741, z: 2.9999995}
         index: 11
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.00000033289504, z: 37.21}
+        vector: {x: -5.0000014, y: 0.00000033289504, z: 2.4999993}
         index: 16
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.000000266316, z: 36.71}
+        vector: {x: -5.0000014, y: 0.000000266316, z: 1.9999992}
         index: 22
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.00000019973697, z: 36.21}
+        vector: {x: -5.0000014, y: 0.00000019973697, z: 1.4999992}
         index: 29
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.00000013315794, z: 35.71}
+        vector: {x: -5.0000014, y: 0.00000013315794, z: 0.9999992}
         index: 37
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.00000059921143, z: 30.209997}
+        vector: {x: -5.0000014, y: -0.00000059921143, z: -4.5000014}
         index: 288
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.0000005326324, z: 30.71}
+        vector: {x: -5.0000014, y: -0.0000005326324, z: -4.000001}
         index: 291
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.00000046605334, z: 31.21}
+        vector: {x: -5.0000014, y: -0.00000046605334, z: -3.500001}
         index: 296
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.00000039947432, z: 31.71}
+        vector: {x: -5.0000014, y: -0.00000039947432, z: -3.000001}
         index: 300
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.00000033289524, z: 32.21}
+        vector: {x: -5.0000014, y: -0.00000033289524, z: -2.500001}
         index: 305
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.00000026631622, z: 32.71}
+        vector: {x: -5.0000014, y: -0.00000026631622, z: -2.0000007}
         index: 311
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.00000019973717, z: 33.21}
+        vector: {x: -5.0000014, y: -0.00000019973717, z: -1.5000007}
         index: 316
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.00000013315815, z: 33.71}
+        vector: {x: -5.0000014, y: -0.00000013315815, z: -1.0000007}
         index: 320
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -0.000000066579126, z: 34.21}
+        vector: {x: -5.0000014, y: -0.000000066579126, z: -0.5000008}
         index: 323
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: -1.03216995e-13, z: 34.71}
+        vector: {x: -5.0000014, y: -1.03216995e-13, z: -0.0000007751465}
         index: 329
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 0, a: 1}
-        vector: {x: 2.3099985, y: 0.00000006657892, z: 35.21}
+        vector: {x: -5.0000014, y: 0.00000006657892, z: 0.49999923}
         index: 335
         type: 3
         special: 0
       - color: {r: 0, g: 0, b: 1, a: 0.5019608}
-        vector: {x: 2.3099985, y: -0.0000006657905, z: 29.709997}
-        index: 287
-        type: 2
-        special: 1
-      - color: {r: 0, g: 0, b: 1, a: 0.5019608}
-        vector: {x: 2.3099985, y: -0.0000006657905, z: 29.709997}
-        index: 287
-        type: 2
-        special: 1
-      - color: {r: 0, g: 0, b: 1, a: 0.5019608}
-        vector: {x: 2.3099985, y: -0.0000006657905, z: 29.709997}
-        index: 287
-        type: 2
-        special: 1
-      - color: {r: 0, g: 0, b: 1, a: 0.5019608}
-        vector: {x: 2.3099985, y: -0.0000006657905, z: 29.709997}
+        vector: {x: -5.0000014, y: -0.0000006657905, z: -5.0000014}
         index: 287
         type: 2
         special: 1
@@ -593,7 +533,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 4581d82212aee1a43a9e6a0809f689fb, type: 3}
+  - {fileID: 2100000, guid: f0db960d6e33abe4a98f4faacd3a2323, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

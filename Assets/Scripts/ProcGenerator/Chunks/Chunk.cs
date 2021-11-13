@@ -229,38 +229,6 @@ public class Chunk : MonoBehaviour
         return 0;
     }
 
-    /// <summary>
-    /// Debug!!!!!
-    /// </summary>
-
-    VerticeProperties a;
-    VerticeProperties b;
-    VerticeProperties c;
-    VerticeProperties d;
-
-    public void SetDrawGizmo(int i, VerticeProperties vert)
-    {
-        if (i == 0)
-            a = vert;
-        else if (i == 1)
-            b = vert;
-        else if (i == 2)
-            c = vert;
-        else if (i == 3)
-            d = vert;
-    }
-
-    public void OnDrawGizmos()
-    {
-        Gizmos.color = a.color;
-        Gizmos.DrawSphere(a.vector, 1);
-        Gizmos.color = b.color;
-        Gizmos.DrawSphere(b.vector, 1);
-        Gizmos.color = c.color;
-        Gizmos.DrawSphere(c.vector, 1);
-        Gizmos.color = d.color;
-        Gizmos.DrawSphere(d.vector, 1);
-    }
     #endregion
 
     public void CalculateVertexData()
@@ -268,7 +236,6 @@ public class Chunk : MonoBehaviour
         int i = 0;
         foreach (Seam seam in Seams)
         {
-            SetDrawGizmo(i, seam.specialIndex);
             if (i + 1 < 4)
                 Seams[i + 1].AddVert(seam.specialIndex);
             else
